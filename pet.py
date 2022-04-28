@@ -6,7 +6,7 @@ class Pet:
         self.bored = True #Tells us if the pet is bored
 
     def set_name(self, name):
-        '''This method sets the name property'''
+        '''This method sets the name attribute'''
         self.name = name
 
     def introduce(self):
