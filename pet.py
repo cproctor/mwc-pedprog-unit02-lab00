@@ -1,6 +1,6 @@
 class Pet:
     def __init__(self):
-        '''This initializes the pet with its properties.'''
+        '''This initializes the pet with its attributes.'''
         self.name = None #The pet's name
         self.tired = False #Tells us if the pet is tired
         self.bored = True #Tells us if the pet is bored
